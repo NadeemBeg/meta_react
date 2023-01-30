@@ -1,0 +1,15 @@
+// export const host = "https://wallet-api.aarchik.com";
+export const host = "http://localhost:5005";
+export const loginRoute = `${host}/api/auth/login`;
+export const registerRoute = `${host}/api/auth/register`;
+export const logoutRoute = `${host}/api/auth/logout`;
+export const allUsersRoute = `${host}/api/auth/allusers`;
+export const sendMessageRoute = `${host}/api/messages/addmsg`;
+export const recieveMessageRoute = `${host}/api/messages/getmsg`;
+export const setAvatarRoute = `${host}/api/auth/setavatar`;
+export const savefile = `${host}/api/document/saveFile`;
+export const sendOtp = `${host}/api/email/sendEmail`;
+export const verifyOTP = `${host}/api/email/otpVerify`;
+export const getUserByEmail =`${host}/api/auth/getUserByEmail`;
+export const updateUser =`${host}/api/auth/updateUser`;
+export const msguserIdRemove =`${host}/api/auth/msguserIdRemove`; 

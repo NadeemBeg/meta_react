@@ -1,0 +1,52 @@
+.webviewer {
+  height: calc(100vh - 83px);
+}
+
+.label_step{
+  font-size: 16px;
+}
+
+.docs-text {
+  font-size: 24px;
+  font-weight: bold;
+  display: block;
+  padding: 0 20px;
+}
+
+.btn-doc-action {
+  display: flex;
+  align-items: center;
+  min-height: 100px;
+  padding: 0 20px;
+}
+
+.btn-docs {
+  padding: 10px;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  margin-right: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.btn-icon {
+  margin-left: 5px;
+}
+
+.btn-list {
+  display: flex;
+}
+
+.back {
+  padding: 15px 20px !important;
+}
+
+@media only screen and (max-width: 767px) {
+  .btn-docs{ font-size: 14px;}
+  .label_step{ font-size: 14px; padding-top: 10px; display: block;}
+  .btn-doc-action{ padding: 0 10px; flex-wrap: wrap;}
+  .docs-text{ padding: 0 10px;}
+  .webviewer{ padding-top: 20px;}
+}

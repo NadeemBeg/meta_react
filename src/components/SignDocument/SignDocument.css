@@ -1,0 +1,23 @@
+.webviewer {
+    height: calc(100vh - 83px);
+}
+
+.btn-ls{
+    display: flex;
+    align-items: center;
+    min-height: 70px;
+    padding: 0 20px;
+}
+
+.btn-nm {
+    padding: 10px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    margin-right: 10px;
+    border: transparent;
+    background: #4e0eff;
+    color: #fff;
+    cursor: pointer;
+}

@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61b56ec2.css",
+    "main.js": "/static/js/main.51007c5f.js",
+    "static/media/robot.gif": "/static/media/robot.0617a41936621e9697cd.gif",
+    "static/media/loader.gif": "/static/media/loader.b40fc3d91ff1f4db53e2.gif",
+    "static/media/download-gif.gif": "/static/media/download-gif.28fa2980d002711fa39f.gif",
+    "static/media/logo.svg": "/static/media/logo.0e93e38195291b3c742a5809c7f00ca5.svg",
+    "static/media/send_receive.svg": "/static/media/send_receive.0e7ee28655eb0f97967a913e06083bfe.svg",
+    "static/media/edit.svg": "/static/media/edit.fb77b5168fd481cecc4b269a077d2173.svg",
+    "static/media/file_upload_browser.svg": "/static/media/file_upload_browser.8c2af047dbdc172194fda847b3c97ba7.svg",
+    "static/media/emoji.svg": "/static/media/emoji.90b28287ee477d1851e6aa1c31db3b47.svg",
+    "static/media/ethereum.svg": "/static/media/ethereum.1f81efecbec5f926305f981ee86a6519.svg",
+    "static/media/file_upload_ftp.svg": "/static/media/file_upload_ftp.02a7035628da1acc849e2805355c49e8.svg",
+    "index.html": "/index.html",
+    "static/media/back.svg": "/static/media/back.85c823d0363107e1e5d162c33e21599b.svg",
+    "main.61b56ec2.css.map": "/static/css/main.61b56ec2.css.map",
+    "main.51007c5f.js.map": "/static/js/main.51007c5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61b56ec2.css",
+    "static/js/main.51007c5f.js"
+  ]
+}

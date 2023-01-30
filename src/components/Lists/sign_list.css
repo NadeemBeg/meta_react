@@ -1,0 +1,15 @@
+.input-container input.otp{ background-color: initial; border: 0.1rem solid #4e0eff; border-radius: 0.4rem; color: #fff; font-size: 1rem; padding: 1rem; width: 100%; margin:40px 0;}
+.input-container .otp_submit{ border: none; border-radius: 0.4rem; color: #fff; cursor: pointer; font-size: 1rem; font-weight: 700; padding: 1rem 2rem; text-transform: uppercase; background-color: #4e0eff; width: 100%; margin-bottom: 40px;}
+.USg{ margin-bottom: 5px;}
+table{ border-collapse: collapse; border-spacing: 0; width: 100%; font-family: "Josefin Sans", sans-serif;}
+.doc-btn{ padding: 8px 12px; margin-right: 5px; background-color: #0074e8; line-height:20px; box-sizing: border-box; cursor: pointer; display: inline-block; min-height: 40px;  border: transparent; border-radius: 25px; margin-bottom: 5px; font-size: 16px; font-weight: 700; text-align: center; color: #fff;}
+thead{ width:100%; border-bottom: 1px solid #fff; text-align: left;}
+th{padding:20px 0}
+td{ padding:20px 15px 20px 0; font-size: 15px;}
+.email{ width: 30%;}
+.iFc{  font-family: "Josefin Sans", sans-serif;}
+.time{ width: 25%;}
+@media screen and (max-width:767px) {
+    .btn{max-width:60px;}
+    .email{ width:40%; word-break:break-word; overflow: hidden; text-overflow: ellipsis;}
+}

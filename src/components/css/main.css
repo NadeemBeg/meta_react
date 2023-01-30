@@ -1,0 +1,57 @@
+.mobile_detail {
+  display: none;
+}
+
+.user_name {
+  font-size: 18px;
+  margin-top: -70px;
+  margin-bottom: 70px;
+  display: none;
+}
+
+/*#chatContainerID{display: block;}*/
+.cTbfxw .button-container .emoji {
+  padding: 0 2px;
+}
+
+.ReactModal__Content .ReactModal__Content--after-open button {
+  float: right;
+}
+
+.ReactModal__Content .ReactModal__Content--after-open form.input-container {
+  background: #000;
+}
+
+.download-docs-text {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.download-docs {
+  margin-top: 10px;
+}
+
+.down-loader {
+  width: 35px !important;
+  height: 35px !important;
+}
+
+@media only screen and (max-width: 767px) {
+  .desktop_detail {
+    display: none;
+  }
+
+  .user_name {
+    display: block;
+  }
+
+  .mobile_detail {
+    display: block;
+    margin-top: 20px;
+    margin-left: 10px;
+  }
+
+  #chatContainerID .contacts .contact .avatar .avtr-img {
+    height: 2.5rem;
+  }
+}
